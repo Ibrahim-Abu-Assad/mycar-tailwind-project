@@ -14,6 +14,11 @@ It was created as a learning project to practice modern UI design with utility-f
 
 ---
 
+## 🚀 Live Preview
+[View Project](https://ibrahim-abu-assad.github.io/mycar-tailwind-project/)
+
+---
+
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
